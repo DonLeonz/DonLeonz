@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=80&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&width=900&height=120&lines=LEON;MR.+BASADO;THE+WHITE+HAWK" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=80&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&width=900&height=120&lines=LEON;MR.+BASADO;THE+WHITE+HAWK;I+SACRIFICE" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
@@ -7,27 +7,28 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=50&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&repeat=false&width=1000&lines=Game+Dev+%7C+Modder+%7C+Based+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=50&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=1200&lines=Game+Dev+%F0%9F%8E%AE;Modder+%F0%9F%94%A7;Based+Developer+%F0%9F%A6%9D;Poker+Face+%F0%9F%83%8F;Lion+Heart+%F0%9F%A6%81;White+Hawk+%F0%9F%A6%85" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/rytOB4IhTdAAAAAM/jjk-jujutsu-kaisen.gif" width="450"/>
+  <img src="https://media.tenor.com/rytOB4IhTdAAAAAM/jjk-jujutsu-kaisen.gif" width="400"/>
+  <img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="400"/>
 </div>
 
 ---
 
-<h1 align="center">🎴 ABOUT MR. BASADO 🎴</h1>
+<h1 align="center">🎴 ABOUT MR. BASADO 🦁</h1>
 
 <div align="center">
   
-**Name:** Leon  
-**Alias:** The White Hawk, Mr. Basado, Magic Hands Leon  
+**Name:** Leon 🦁  
+**Alias:** The White Hawk 🦅, Mr. Basado 🃏, Magic Hands Leon ✨  
 **Location:** Colombia 🇨🇴  
-**Status:** Building my videogame empire  
-**Personality:** Charismatic, chill, based AF  
-**Loves:** Game dev, Mods, Anime, Breaking code  
+**Status:** Building my videogame empire 👑  
+**Personality:** Charismatic, chill, based AF 🦝  
+**Loves:** Game dev 🎮, Mods 🔧, Anime 📺, Breaking code 💻  
 **Currently Watching:** Demon Slayer, JJK, Berserk  
-**Philosophy:** I sacrifice... for the perfect game
+**Philosophy:** I sacrifice... for the perfect game 🃏
 
 </div>
 
@@ -64,7 +65,7 @@ Code architect & problem solver
 
 ---
 
-<h1 align="center">⚔️ TECH ARSENAL ⚔️</h1>
+<h1 align="center">⚔️ TECH ARSENAL 🦅</h1>
 
 <div align="center">
 
@@ -95,7 +96,7 @@ Code architect & problem solver
 
 ---
 
-<h1 align="center">🎯 CURRENT MISSION 🎯</h1>
+<h1 align="center">🎯 CURRENT MISSION 🦝</h1>
 
 <div align="center">
 
@@ -115,7 +116,7 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 
 ---
 
-<h1 align="center">📊 STATS 📊</h1>
+<h1 align="center">📊 STATS 🃏</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DonLeonz&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
@@ -128,7 +129,7 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 
 ---
 
-<h1 align="center">🏆 TROPHIES 🏆</h1>
+<h1 align="center">🏆 TROPHIES 👑</h1>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DonLeonz&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
@@ -141,7 +142,7 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 
 ---
 
-<h1 align="center">🔗 LINKS 🔗</h1>
+<h1 align="center">🔗 LINKS 🦁</h1>
 
 <div align="center">
 
@@ -156,7 +157,11 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 <div align="center">
   <img src="https://media.tenor.com/0HuP8U6SDsEAAAAM/griffith.gif" width="650"/>
   
-  <h2>I sacrifice</h2>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&duration=2000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=I+SACRIFICE" alt="Typing SVG" />
+    </a>
+  </h1>
   
   <img src="https://komarev.com/ghpvc/?username=DonLeonz&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
 </div>
