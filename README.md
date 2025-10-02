@@ -11,7 +11,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/rytOB4IhTdAAAAAM/jjk-jujutsu-kaisen.gif" width="400"/>
+  <img src="https://media.tenor.com/rytOB4IhTdAAAAAM/jjk-jujutsu-kaisen.gif" width="380"/>
+  <img src="https://media.tenor.com/yvi1iNwhDQQAAAAM/geto-suguru-cat.giff" width="380"/>
 </div>
 
 ---
