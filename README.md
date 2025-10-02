@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e8/c7/ba/e8c7ba1c8f36629e96fa292fe6be1aff.gif" width="700"/>
+  <img src="https://media.tenor.com/w4Kyn2TnFn0AAAAM/griffith-berserk.gif" width="700"/>
 </div>
 
 <h1 align="center">
@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/cno5FCbB05UAAAAC/geto-suguru.gif" width="400"/>
+  <img src="https://media.tenor.com/rytOB4IhTdAAAAAM/jjk-jujutsu-kaisen.gif" width="450"/>
 </div>
 
 ---
@@ -19,20 +19,20 @@
 <h1 align="center">🎴 ABOUT MR. BASADO 🎴</h1>
 
 <div align="center">
+  
+**Name:** Leon  
+**Alias:** The White Hawk, Mr. Basado, Magic Hands Leon  
+**Location:** Colombia 🇨🇴  
+**Status:** Building my videogame empire  
+**Personality:** Charismatic, chill, based AF  
+**Loves:** Game dev, Mods, Anime, Breaking code  
+**Currently Watching:** Demon Slayer, JJK, Berserk  
+**Philosophy:** I sacrifice... for the perfect game
 
-```javascript
-const MrBasado = {
-    real_name: "Leon",
-    alias: ["The White Hawk", "Mr. Basado", "Magic Hands Leon"],
-    location: "Colombia 🇨🇴",
-    status: "Building my videogame empire",
-    personality: "Charismatic, chill, based AF",
-    loves: ["Game dev", "Mods", "Anime", "Breaking code"],
-    currently_watching: ["Demon Slayer", "JJK", "Berserk"],
-    philosophy: "I sacrifice... for the perfect game"
-};
-```
+</div>
 
+<div align="center">
+  <img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="500"/>
 </div>
 
 <table align="center">
@@ -59,7 +59,7 @@ Code architect & problem solver
 </table>
 
 <div align="center">
-  <img src="https://media.tenor.com/oRcB9tomcfAAAAAC/tomioka-giyuu-demon-slayer.gif" width="500"/>
+  <img src="https://media.tenor.com/ozX-IsNpuykAAAAM/griffith.gif" width="500"/>
 </div>
 
 ---
@@ -90,7 +90,7 @@ Code architect & problem solver
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/PfRNA0A_degAAAAC/yoriichi-tsugikuni-yoriichi.gif" width="550"/>
+  <img src="https://media.tenor.com/p06n3_3PZ9gAAAAM/griffith.gif" width="550"/>
 </div>
 
 ---
@@ -106,9 +106,9 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/m0NqTSA-TQ4AAAAC/trash-panda-racoon.gif" width="280"/>
-  <img src="https://i.pinimg.com/originals/5c/f7/67/5cf7676381259e8ed3dbd041e0bb218e.gif" width="280"/>
-  <img src="https://media1.tenor.com/m/sLm34gebjXkAAAAC/anime-eating.gif" width="280"/>
+  <img src="https://media.tenor.com/6770rzE5FrYAAAAM/berserk-guts.gif" width="250"/>
+  <img src="https://media.tenor.com/NIneBmh3lWEAAAAM/berserk-judeau.gif" width="250"/>
+  <img src="https://media.tenor.com/B2LzZHvM0FYAAAAM/berserk-guts.gif" width="250"/>
 </div>
 
 > *"Monkeys can only live by imitating each other."* - Suguru Geto
@@ -135,7 +135,8 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/WhgKjwRsERMAAAAC/racoon-funny.gif" width="300"/>
+  <img src="https://media.tenor.com/hzkQE6wH6EwAAAAM/berserk-judeau.gif" width="350"/>
+  <img src="https://media.tenor.com/vnnPOjyC9ywAAAAM/griffith.gif" width="350"/>
 </div>
 
 ---
@@ -153,11 +154,11 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/O9RP67OB_8AAAAAC/berserk-griffith.gif" width="650"/>
+  <img src="https://media.tenor.com/0HuP8U6SDsEAAAAM/griffith.gif" width="650"/>
   
   <h2>I sacrifice</h2>
   
-  <img src="https://komarev.com/ghpvc/?username=DonLeonz&label=Profile%20Views&color=crimson&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DonLeonz&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
