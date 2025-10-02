@@ -58,8 +58,8 @@ Code architect & problem solver
 </table>
 
 <div align="center">
-<img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="500"/>
-  <img src="https://media.tenor.com/ozX-IsNpuykAAAAM/griffith.gif" width="500"/>
+<img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="450"/>
+  <img src="https://media.tenor.com/ozX-IsNpuykAAAAM/griffith.gif" width="450"/>
 </div>
 
 ---
