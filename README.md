@@ -12,7 +12,6 @@
 
 <div align="center">
   <img src="https://media.tenor.com/rytOB4IhTdAAAAAM/jjk-jujutsu-kaisen.gif" width="400"/>
-  <img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="400"/>
 </div>
 
 ---
@@ -32,27 +31,26 @@
 
 </div>
 
-<div align="center">
-  <img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="500"/>
-</div>
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
 ### 🕹️ GAME DEV
+
 Building my own videogame from scratch
 
 </td>
 <td align="center" width="33%">
 
 ### 🔧 MOD CREATOR
+
 Breaking games to make them better
 
 </td>
 <td align="center" width="33%">
 
 ### 💻 FULL STACK
+
 Code architect & problem solver
 
 </td>
@@ -60,6 +58,7 @@ Code architect & problem solver
 </table>
 
 <div align="center">
+<img src="https://media.tenor.com/DVnnxuMxCdIAAAAM/judeau-the-band-of-the-falcon.gif" width="500"/>
   <img src="https://media.tenor.com/ozX-IsNpuykAAAAM/griffith.gif" width="500"/>
 </div>
 
@@ -70,6 +69,7 @@ Code architect & problem solver
 <div align="center">
 
 ### 💻 Languages
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -77,12 +77,14 @@ Code architect & problem solver
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎮 Frameworks & Game Dev
+
 ![GameMaker](https://img.shields.io/badge/GameMaker-%23000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🛠️ Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -112,7 +114,7 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
   <img src="https://media.tenor.com/B2LzZHvM0FYAAAAM/berserk-guts.gif" width="250"/>
 </div>
 
-> *"Monkeys can only live by imitating each other."* - Suguru Geto
+> _"Monkeys can only live by imitating each other."_ - Suguru Geto
 
 ---
 
