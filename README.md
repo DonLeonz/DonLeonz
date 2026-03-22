@@ -33,8 +33,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="340"/>
-  <img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="340"/>
+  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="220"/>
 </div>
 
 <br/>
@@ -97,6 +98,8 @@
 
 **// Environment**
 
+![CachyOS](https://img.shields.io/badge/CachyOS-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-%2358E1FF.svg?style=for-the-badge&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -181,15 +184,9 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 
 ---
 
-<h2 align="center">🏆 TROPHIES 👑</h2>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DonLeonz&theme=radical&no-frame=true&margin-w=4&column=7" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://media.tenor.com/hzkQE6wH6EwAAAAM/berserk-judeau.gif" width="340"/>
-  <img src="https://media.tenor.com/vnnPOjyC9ywAAAAM/griffith.gif" width="340"/>
+  <img src="https://media.tenor.com/hzkQE6wH6EwAAAAM/berserk-judeau.gif" width="340" height="320"/>
+  <img src="https://media.tenor.com/vnnPOjyC9ywAAAAM/griffith.gif" width="340" height="320"/>
 </div>
 
 ---
