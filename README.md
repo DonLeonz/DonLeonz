@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LEON&fontSize=100&fontColor=DC143C&animation=fadeIn&fontAlignY=42&desc=The%20White%20Hawk%20%F0%9F%A6%85&descAlignY=65&descAlign=50&descSize=28" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LEON&fontSize=110&fontColor=DC143C&animation=fadeIn&fontAlignY=42&desc=The%20White%20Hawk%20%F0%9F%A6%85&descAlignY=65&descAlign=50&descSize=26&fontFamily=Bebas%20Neue" width="100%"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -33,7 +33,7 @@
 </div>
 
 <table align="center"><tr>
-<td><img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/></td>
+<td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9neWFnMHpvenA3MXRxdzRha2IydWRtZDFma28zemUzMm90YWkwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/></td>
 <td><img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="220"/></td>
 <td><img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="220"/></td>
 </tr></table>
