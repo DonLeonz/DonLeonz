@@ -33,7 +33,7 @@
 </div>
 
 <table align="center"><tr>
-<td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9neWFnMHpvenA3MXRxdzRha2IydWRtZDFma28zemUzMm90YWkwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/></td>
+<td><img src="https://giphy.com/gifs/chainsaw-man-reze-2zku-2VV9jJyEukCtXVjCCp" width="220"/></td>
 <td><img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="220"/></td>
 <td><img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="220"/></td>
 </tr></table>
