@@ -7,8 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/w4Kyn2TnFn0AAAAM/griffith-berserk.gif" width="350"/>
-  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="350"/>
+  <img src="https://media.tenor.com/w4Kyn2TnFn0AAAAM/griffith-berserk.gif" width="700"/>
 </div>
 
 <h2 align="center">
@@ -21,41 +20,21 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+**Name:** Leon 🦁 &nbsp;|&nbsp; **Alias:** The White Hawk 🦅 · Mr. Basado 🃏 · Magic Hands Leon ✨ &nbsp;|&nbsp; **Location:** Colombia 🇨🇴
 
-```
-  Name     →  Leon
-  Alias    →  The White Hawk 🦅
-             Mr. Basado 🃏
-             Magic Hands Leon ✨
-  Origin   →  Colombia 🇨🇴
-  Status   →  Building my videogame empire 👑
-```
+**Status:** Building my videogame empire 👑 &nbsp;|&nbsp; **Personality:** Charismatic, chill, based AF 🦝
 
-</td>
-<td align="center" width="50%">
+**Loves:** Game Dev 🎮 · Mods 🔧 · Anime 📺 · Breaking code 💻
 
-```
-  Loves    →  Game Dev 🎮
-             Mods 🔧
-             Anime 📺
-             Breaking code 💻
-  Watching →  Demon Slayer
-             JJK  /  Berserk
-  Creed    →  I sacrifice... for the perfect game
-```
+**Currently Watching:** Demon Slayer · JJK · Berserk
 
-</td>
-</tr>
-</table>
+**Philosophy:** I sacrifice... for the perfect game 🃏
 
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="340"/>
   <img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="340"/>
-  <img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="340"/>
 </div>
 
 <br/>
@@ -136,15 +115,20 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3><a href="https://github.com/DonLeonz/Leon-Inventorys">🏪 Leon-Inventory's</a></h3>
+      <td align="center" width="33%">
+        <h3>🏪 Leon-Inventory's</h3>
         <p>Full-stack inventory & storefront platform.<br/>
         React · Node.js · PostgreSQL · Redis · Prisma</p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <h3><a href="https://github.com/DonLeonz/VinTracker">🚗 VIN Tracker</a></h3>
         <p>Vehicle delivery & service tracking system.<br/>
         React · Node.js · PostgreSQL · Podman</p>
+      </td>
+      <td align="center" width="33%">
+        <h3><a href="https://github.com/kadanarpaOps/Coffe-Shop-SPA">☕ Coffee Shop SPA</a></h3>
+        <p>Modern single-page app for a coffee shop.<br/>
+        React · React Router · UIkit · JavaScript</p>
       </td>
     </tr>
   </table>
