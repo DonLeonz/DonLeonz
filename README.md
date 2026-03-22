@@ -32,11 +32,11 @@
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="220"/>
-</div>
+<table align="center"><tr>
+<td><img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/></td>
+<td><img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="220"/></td>
+<td><img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="220"/></td>
+</tr></table>
 
 <br/>
 
@@ -184,10 +184,10 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 
 ---
 
-<div align="center">
-  <img src="https://media.tenor.com/hzkQE6wH6EwAAAAM/berserk-judeau.gif" width="340" height="320"/>
-  <img src="https://media.tenor.com/vnnPOjyC9ywAAAAM/griffith.gif" width="340" height="320"/>
-</div>
+<table align="center"><tr>
+<td><img src="https://media.tenor.com/hzkQE6wH6EwAAAAM/berserk-judeau.gif" width="340" height="270"/></td>
+<td><img src="https://media.tenor.com/vnnPOjyC9ywAAAAM/griffith.gif" width="340" height="270"/></td>
+</tr></table>
 
 ---
 
