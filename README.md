@@ -33,7 +33,7 @@
 </div>
 
 <table align="center"><tr>
-<td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JhMmY1a2Q3d3ZsbDNtcTFvMzJ3cmR4ZW5nZW5icWZibzdsOGk5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2VV9jJyEukCtXVjCCp/giphy.gif" width="220"/></td>
+<td><img src="https://tenor.com/vm8zVYJ15MB.gif" width="220"/></td>
 <td><img src="https://media.giphy.com/media/RJNZr2JzGrxaMcJ4tg/giphy.gif" width="220"/></td>
 <td><img src="https://media.giphy.com/media/D1cka6oS6RShHZDxQo/giphy.gif" width="220"/></td>
 </tr></table>
