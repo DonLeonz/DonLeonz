@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LEON&fontSize=110&fontColor=DC143C&animation=fadeIn&fontAlignY=42&desc=The%20White%20Hawk%20%F0%9F%A6%85&descAlignY=65&descAlign=50&descSize=26&fontFamily=Bebas%20Neue" width="100%"/>
+<img src="https://raw.githubusercontent.com/DonLeonz/DonLeonz/main/banner.svg" width="100%"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

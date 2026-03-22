@@ -1,0 +1,80 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="40%"  stop-color="#1a0008"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#DC143C" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#DC143C" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#DC143C" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#DC143C" stop-opacity="1"/>
+      <stop offset="70%"  stop-color="#DC143C" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#DC143C" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="50"  x2="900" y2="50"  stroke="#DC143C" stroke-width="0.3" opacity="0.15"/>
+  <line x1="0" y1="100" x2="900" y2="100" stroke="#DC143C" stroke-width="0.3" opacity="0.1"/>
+  <line x1="0" y1="150" x2="900" y2="150" stroke="#DC143C" stroke-width="0.3" opacity="0.15"/>
+  <line x1="150" y1="0" x2="150" y2="200" stroke="#DC143C" stroke-width="0.3" opacity="0.1"/>
+  <line x1="750" y1="0" x2="750" y2="200" stroke="#DC143C" stroke-width="0.3" opacity="0.1"/>
+
+  <!-- Glow line top -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#glow)"/>
+  <!-- Glow line bottom -->
+  <rect x="0" y="198" width="900" height="2" fill="url(#glow)"/>
+
+  <!-- Side accent lines -->
+  <rect x="0"   y="0" width="3" height="200" fill="url(#glow)" opacity="0.6"/>
+  <rect x="897" y="0" width="3" height="200" fill="url(#glow)" opacity="0.6"/>
+
+  <!-- Left kanji decoration -->
+  <text x="72" y="130" font-family="serif" font-size="80" fill="#DC143C" opacity="0.06" text-anchor="middle">獅</text>
+  <!-- Right kanji decoration -->
+  <text x="828" y="130" font-family="serif" font-size="80" fill="#DC143C" opacity="0.06" text-anchor="middle">鷹</text>
+
+  <!-- Corner dots left -->
+  <circle cx="30" cy="30"  r="2" fill="#DC143C" opacity="0.5"/>
+  <circle cx="42" cy="30"  r="1" fill="#DC143C" opacity="0.3"/>
+  <circle cx="30" cy="170" r="2" fill="#DC143C" opacity="0.5"/>
+  <circle cx="42" cy="170" r="1" fill="#DC143C" opacity="0.3"/>
+  <!-- Corner dots right -->
+  <circle cx="870" cy="30"  r="2" fill="#DC143C" opacity="0.5"/>
+  <circle cx="858" cy="30"  r="1" fill="#DC143C" opacity="0.3"/>
+  <circle cx="870" cy="170" r="2" fill="#DC143C" opacity="0.5"/>
+  <circle cx="858" cy="170" r="1" fill="#DC143C" opacity="0.3"/>
+
+  <!-- Divider line above subtitle -->
+  <rect x="280" y="152" width="340" height="1" fill="url(#fade)" opacity="0.7"/>
+
+  <!-- Main LEON text with glow -->
+  <text x="450" y="140"
+    font-family="Impact, 'Arial Black', sans-serif"
+    font-size="115"
+    font-weight="900"
+    fill="#DC143C"
+    text-anchor="middle"
+    letter-spacing="18"
+    filter="url(#shadow)">LEON</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="175"
+    font-family="'Courier New', Courier, monospace"
+    font-size="13"
+    fill="#DC143C"
+    text-anchor="middle"
+    letter-spacing="10"
+    opacity="0.75">THE  WHITE  HAWK</text>
+</svg>
