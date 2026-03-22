@@ -7,7 +7,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="700"/>
+  <img src="https://media.tenor.com/w4Kyn2TnFn0AAAAM/griffith-berserk.gif" width="350"/>
+  <img src="https://media.giphy.com/media/2VV9jJyEukCtXVjCCp/giphy.gif" width="350"/>
 </div>
 
 <h2 align="center">
@@ -130,6 +131,27 @@
 
 ---
 
+<h2 align="center">🗂️ FEATURED PROJECTS</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3><a href="https://github.com/DonLeonz/Leon-Inventorys">🏪 Leon-Inventory's</a></h3>
+        <p>Full-stack inventory & storefront platform.<br/>
+        React · Node.js · PostgreSQL · Redis · Prisma</p>
+      </td>
+      <td align="center" width="50%">
+        <h3><a href="https://github.com/DonLeonz/VinTracker">🚗 VIN Tracker</a></h3>
+        <p>Vehicle delivery & service tracking system.<br/>
+        React · Node.js · PostgreSQL · Podman</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h2 align="center">🎯 CURRENT MISSION 🦝</h2>
 
 <div align="center">
@@ -178,7 +200,7 @@ When I'm not coding, I'm making mods, breaking games to understand them, or watc
 <h2 align="center">🏆 TROPHIES 👑</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DonLeonz&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DonLeonz&theme=radical&no-frame=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 <div align="center">
